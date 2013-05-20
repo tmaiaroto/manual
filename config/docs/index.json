@@ -65,7 +65,13 @@
 				"contents": {
 					"05_models/01_using_models.wiki": { "title": "Using Models" },
 					"05_models/02_associations.wiki": { "title": "Associations" },
-					"05_models/03_adding_functionality.wiki": { "title": "Adding Functionality" }
+					"05_models/03_adding_functionality.wiki": { "title": "Adding Functionality" },
+					"05_models/advanced": {
+						"title": "Advanced",
+						"contents": {
+							"05_models/advanced/mongodb.wiki": { "title": "MongoDB" }
+						}
+					}
 				}
 			},
 			"06_auth": {
